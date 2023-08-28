@@ -1,0 +1,119 @@
+baseURL = 'http://elton.schivei.nom.br/'
+languageCode = 'en-us'
+title = 'Elton Schivei Costa'
+theme = 'devise'
+copyright = '&copy; since 1988, Elton Schivei Costa'
+DefaultContentLanguage = 'en-us'
+enableInlineShortcodes = true
+relativeURLs = true
+enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = ""
+ignoreErrors = ["error-remote-getjson"]
+sectionPagesMenu = "main"
+
+[params]
+noindex = false
+description = "Elton Schivei Costa is a software engineer based out of Sao Paulo, SP, Brazil"
+header_title = "Elton Schivei Costa"
+header_subtitle = "Software Engineer | Sao Paulo, SP, Brazil"
+home_image = "me.jpeg"
+
+[params.style]                             # CSS style overrides
+backgroundColor = "#f8f9fa"
+homeImageBorderColor = "#ffffff"
+fontFamilyBase = "Helvetica Neue"        # First-choice font
+fontColor = "#212529"
+
+[[params.social]]
+fa_icon = "fab fa-1x fa-github"
+href = "https://github.com/schivei"
+
+[[params.social]]
+fa_icon = "fab fa-1x fa-linkedin"
+href = "https://www.linkedin.com/in/eltonschivei"
+
+[[params.social]]
+fa_icon = "fab fa-1x fa-twitter"
+href = "https://twitter.com/schivei"
+
+[[params.social]]
+fa_icon = "fas fa-1x fa-envelope"
+href = "mailto:costa@elton.schivei.nom.br"
+
+[[params.social]]
+fa_icon = "fab fa-1x fa-whatsapp"
+href = "https://api.whatsapp.com/send?phone=5511940674688"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup]
+
+# Table of contents
+# Add toc = true to content front matter to enable
+[markup.tableOfContents]
+startLevel = 2
+endLevel   = 3
+ordered    = true
+
+[privacy]
+
+    [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+    [privacy.instagram]
+    disabled = false
+    simple = true
+
+    [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+    [services.instagram]
+    disableInlineCSS = true
+
+    [services.twitter]
+    disableInlineCSS = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[menu]
+    [[menu.main]]
+    identifier = "0"
+    name = "English"
+    title = "English"
+    url = "/"
+    weight = -10
+
+    [[menu.main]]
+    identifier = "1"
+    name = "Português"
+    title = "Português"
+    url = "/pt-br"
+    weight = -1
+
+    [[menu.main]]
+    identifier = "2"
+    name = "Resume"
+    title = "Resume"
+    url = "/resume.pdf"
+    weight = -10
+    target = "_blank"
+    fa_icon = "fas fa-1x fa-file-pdf"
+
+    [[menu.main]]
+    identifier = "3"
+    name = "Currículo"
+    title = "Currículo"
+    url = "/curriculo.pdf"
+    weight = 0
+    target = "_blank"
+    fa_icon = "fas fa-1x fa-file-pdf"

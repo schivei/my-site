@@ -1,0 +1,13 @@
+@media print {
+    #content {
+        width: initial;
+        max-width: initial;
+        min-height: initial;
+    }
+    footer, #nav-links {
+        display: none;
+    }
+    hr {
+        page-break-after: auto;
+    }
+}
