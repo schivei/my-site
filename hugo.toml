@@ -18,6 +18,12 @@ description = "Elton Schivei Costa is a software engineer based out of Sao Paulo
 header_title = "Elton Schivei Costa"
 header_subtitle = "Software Engineer | Sao Paulo, SP, Brazil"
 home_image = "me.jpeg"
+favicon = true
+faviconVersion = 1
+
+[params.meta]
+favicon = true
+faviconVersion = 1
 
 [params.style]                             # CSS style overrides
 backgroundColor = "#f8f9fa"
