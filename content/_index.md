@@ -16,7 +16,7 @@ Jan. 2014 - Dec. 2017
 <hr/>
 
 # Main Expertise Areas
-**Tech Lead**: 4 years managing multidisciplinary team<br/>
+**Tech Lead**: +4 years managing multidisciplinary team<br/>
 **Sr Software Engineer**: +18 years in software development
 
 <hr/>
@@ -37,6 +37,20 @@ To find challenging job opportunities to develop my experience in the software e
 <hr/>
 
 # Work Experience
+<br/>
+
+## Clinicorp
+*Sr Software Engineer*: development of management system for dental clinics.<br/>  
+Oct. 2023 - Actual
+
+### Stack
+- Node.JS
+- Postgres
+- GCP
+- GitHub
+
+### Projects
+- Fintech
 
 ## G&P
 *Sr Software Engineer*: internal software development.<br/>

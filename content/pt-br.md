@@ -38,6 +38,19 @@ Encontrar oportunidades de trabalho desafiadoras para desenvolver minha experiê
 # Experiências de Trabalho
 <br/>
 
+## Clinicorp
+*Engenheiro de Software Sênior*: desenvolvimento de sistema de gestão para clínicas odontológicas.<br/>  
+Out. 2023 - Atual
+
+### Tecnologias Utilizadas
+- Node.JS
+- Postgres
+- GCP
+- GitHub
+
+### Projetos
+- Fintech
+
 ## G&P
 *Engenheiro de Software Sênior*: desenvolvimento interno de software.<br/>
 Set. 2022 - Ago. 2023
