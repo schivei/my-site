@@ -1,7 +1,7 @@
 # Sobre
 Iniciei minha carreira nesta área após um amigo me incentivar a começar a programar. Isso aconteceu quando eu era professor em uma pequena escola de hardware de computadores.
 
-Como líder de tecnologia, fui responsável por gerenciar pessoas de diferentes faixas etárias, o que foi uma experiência enriquecedora, pois me permitiu desenvolver minhas habilidades em identificar os papéis mais adequados para os membros da equipe. Houve uma situação em que alocava uma pessoa que tinha resistência ao SCRUM na equipe de Pesquisa e Desenvolvimento (R&D) e mantinha o framework para aqueles mais abertos à metodologia. Essa abordagem ajudou a manter a funcionalidade do trabalho em equipe.
+Como líder técnico, fui responsável por gerenciar pessoas de diferentes faixas etárias, o que foi uma experiência enriquecedora, pois me permitiu desenvolver minhas habilidades em identificar os papéis mais adequados para os membros da equipe. Houve uma situação em que alocava uma pessoa que tinha resistência ao SCRUM na equipe de Pesquisa e Desenvolvimento (R&D) e mantinha o framework para aqueles mais abertos à metodologia. Essa abordagem ajudou a manter a funcionalidade do trabalho em equipe.
 
 Impactei positivamente a empresa alocando os recursos humanos corretos em suas equipes, onde puderam ser mais produtivos e lucrativos para a empresa. Isso permitiu que eles descobrissem abordagens, processos e tecnologias que poderiam aprimorar os produtos desenvolvidos pela empresa e fornecer mais valor aos clientes.
 
@@ -16,7 +16,7 @@ Jan. 2014 - Dez. 2017
 <hr/>
 
 # Principais Áreas de Especialização
-**Líder de Tecnologia**: 4 anos gerenciando equipes multidisciplinares<br/>
+**Líder Técnico**: 4 anos gerenciando equipes multidisciplinares<br/>
 **Engenheiro de Software Sênior**: +18 anos em desenvolvimento de software
 
 <hr/>
@@ -39,7 +39,7 @@ Encontrar oportunidades de trabalho desafiadoras para desenvolver minha experiê
 <br/>
 
 ## Clinicorp
-*Engenheiro de Software Sênior*: desenvolvimento de sistema de gestão para clínicas odontológicas.<br/>  
+*Engenheiro de Software Sênior e Líder Técnico*: desenvolvimento de sistema de gestão para clínicas odontológicas.<br/>  
 Out. 2023 - Atual
 
 ### Tecnologias Utilizadas
@@ -50,9 +50,12 @@ Out. 2023 - Atual
 
 ### Projetos
 - Fintech
+- Financiamento de Tratamentos
+
+<hr/>
 
 ## G&P
-*Engenheiro de Software Sênior*: desenvolvimento interno de software.<br/>
+*Especialista Microsoft*: desenvolvimento interno de software.<br/>
 Set. 2022 - Ago. 2023
 
 ### Tecnologias Utilizadas
@@ -69,7 +72,7 @@ Set. 2022 - Ago. 2023
 <hr/>
 
 ## Lumini IT Solutions
-*Engenheiro de Software Sênior e Líder de Tecnologia*: gestão de equipe multidisciplinar e desenvolvimento de software.<br/>
+*Engenheiro de Software Sênior e Líder Técnico*: gestão de equipe multidisciplinar e desenvolvimento de software.<br/>
 Jan. 2018 - Set. 2022
 
 ### Tecnologias Utilizadas
@@ -95,7 +98,7 @@ Jan. 2018 - Set. 2022
 <hr/>
 
 ## Softpark Informática
-*Desenvolvedor Fullstack Sênior e Líder de Tecnologia*: gestão de pequena equipe e desenvolvimento de soluções para cuidados de saúde pública.<br/>
+*Desenvolvedor Fullstack Sênior e Líder Técnico*: gestão de pequena equipe e desenvolvimento de soluções para cuidados de saúde pública.<br/>
 Jan. 2017 - Jan. 2018
 
 ### Tecnologias Utilizadas

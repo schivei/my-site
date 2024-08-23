@@ -40,7 +40,7 @@ To find challenging job opportunities to develop my experience in the software e
 <br/>
 
 ## Clinicorp
-*Sr Software Engineer*: development of management system for dental clinics.<br/>  
+*Sr Software Engineer Tech Lead*: development of management system for dental clinics.<br/>  
 Oct. 2023 - Actual
 
 ### Stack
@@ -51,9 +51,12 @@ Oct. 2023 - Actual
 
 ### Projects
 - Fintech
+- Treatments Loan
+
+<hr/>
 
 ## G&P
-*Sr Software Engineer*: internal software development.<br/>
+*Microsoft Specialist*: internal software development.<br/>
 Set. 2022 - Ago. 2023
 
 ### Stack
