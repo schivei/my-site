@@ -40,7 +40,7 @@ Encontrar oportunidades de trabalho desafiadoras para desenvolver minha experiê
 
 ## Clinicorp
 *Engenheiro de Software Sênior e Líder Técnico*: desenvolvimento de sistema de gestão para clínicas odontológicas.<br/>  
-Out. 2023 - Atual
+Out. 2023 - Set. 2024
 
 ### Tecnologias Utilizadas
 - Node.JS

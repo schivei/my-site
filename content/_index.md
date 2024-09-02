@@ -41,7 +41,7 @@ To find challenging job opportunities to develop my experience in the software e
 
 ## Clinicorp
 *Sr Software Engineer Tech Lead*: development of management system for dental clinics.<br/>  
-Oct. 2023 - Actual
+Oct. 2023 - Sep. 2024
 
 ### Stack
 - Node.JS
